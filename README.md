@@ -7,3 +7,5 @@ A comma separated value CLI app<br>
 ## cd into the repo while on the terminal/cmd
 ## run node app.js
 
+## LICENSE
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
