@@ -1,4 +1,4 @@
-# NodejsCSV
+# A Simple NodejsCSV file reader
 A comma separated value CLI app
 ## Clone the repo
 ## Open Repo using an editor of your choice
